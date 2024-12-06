@@ -1,11 +1,8 @@
-confluentinc/cp-zookeeper:7.4.0
-mysql:8.2
-elasticsearch:7.10.1
-acryldata/datahub-actions
-acryldata/datahub-frontend-react
-acryldata/datahub-gms
-acryldata/datahub-upgrade
-acryldata/datahub-elasticsearch-setup
-acryldata/datahub-kafka-setup
-acryldata/datahub-mysql-setup
+acryldata/datahub-actions:83b99a7
+acryldata/datahub-frontend-react:eef2077
+acryldata/datahub-gms:eef2077
+acryldata/datahub-upgrade:eef2077
+acryldata/datahub-elasticsearch-setup:eef2077
+acryldata/datahub-kafka-setup:eef2077
+acryldata/datahub-mysql-setup:eef2077
 
